@@ -6,6 +6,7 @@ Download the project at https://github.com/aditya-sin/Responsive-Page.git
 
 ### What it does
 There are 3 break-points
+
 1. Viewport is below 450 px.
   a) Header logo and header title are center-aligned.
   b) Navigation menu at the top disappears and a hamburger menu appears
